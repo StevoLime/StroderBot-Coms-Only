@@ -35,7 +35,7 @@ channel = conpar.get("channelinfo", "channel")
 owner = conpar.get("channelinfo", "owner")								
 rafact = 1
 rdb = None
-vernum = '1.0a'
+vernum = '1.0c'
 
 #Connecting to Twitch irc server.
 s = socket.socket()
